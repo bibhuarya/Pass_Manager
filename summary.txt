@@ -1,12 +1,1 @@
-You changed your ACT password on Tue May 12 15:59:37 2020
-You changed your GOOGLE password on Tue May 12 16:11:24 2020
-You changed your GITHUB password on Wed May 13 16:56:04 2020
-You changed your ADOBE password on Wed May 13 16:58:21 2020
-You changed your STACKOVERFLOW password on Wed May 13 17:01:39 2020
-You changed your APPLE password on Wed May 13 17:03:03 2020
-You changed your FLIPKART password on Wed May 13 17:05:13 2020
-You changed your AMAZON password on Wed May 13 17:08:16 2020
-You changed your master key on Wed May 13 17:10:00 2020
-You changed your ULTIMATIX password on Fri May 15 08:36:10 2020
-You changed your GM password on Mon May 25 12:57:20 2020
-You changed your HOTSTAR password on Sat Jun 13 21:40:42 2020
+You changed your TEST ACCOUNT password on Wed May 12 13:51:30 2021
